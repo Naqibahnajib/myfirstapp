@@ -16,7 +16,7 @@ if readme:
 
     st.write ("For more info, please contact:")
 
-    st.write("<a href='https://www.linkedin.com/in/yong-poh-yu/'>Dr. Yong Poh Yu </a>", unsafe_allow_html=True)
+    st.write("<a href='https://www.linkedin.com/in/nur-naqibah-mohd-najib-b42683193?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B42AYNKKgQzGbPzlSYuHEmA%3D%3D'>Nur Naqibah</a>", unsafe_allow_html=True)
 
 option = st.sidebar.selectbox(
     'Select a mini project',
